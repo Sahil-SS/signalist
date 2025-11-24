@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "StockWhiz",
+  title: "Signalist",
   description: "AI-Powered Investment Research for Smarter Decisions.",
 };
 
